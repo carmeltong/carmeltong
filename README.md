@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Carmel
 
-Welcome to my GitHub! I'm passionate about building creative solutions at the intersection of **business technology**. I'm passionate about all things strategy, design, and sports, and eager to explore/learn anything that expands my perspective.
+Welcome to my GitHub! I'm passionate about building creative solutions at the intersection of **business and technology**. I'm passionate about all things strategy, design, and sports, and eager to explore/learn anything that expands my perspectives.
 
 ## 🚀 About Me
 
