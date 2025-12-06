@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm passionate about building creative solutions at the in
 ## 🚀 About Me
 
 - 🎓 **Business and Product Design @ USC**  
-- 💼 **Diverse industry experience** in strategy consulting (EY-Parthenon), sports business (LA Clippers), risk advisory (Grant Thornton), and A&D (Northrop Grumman)
+- 💼 **Diverse industry experience** in strategy consulting (EY-Parthenon, Workiva), sports business (LA Clippers), risk advisory (Grant Thornton), and A&D (Northrop Grumman)
 - 🧩 Passionate about **design thinking** and building systems that make work easier  
 - 🏀 Always down to play or watch a game of basketball!
 
